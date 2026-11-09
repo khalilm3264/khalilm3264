@@ -13,7 +13,7 @@ I like building tools that make complicated ideas easier to explore and drawing 
 <br><br>
 
 <a href="https://github.com/khalilm3264/pixelart">
-  <img src="https://raw.githubusercontent.com/khalilm3264/pixelart/main/sofa.jpg" width="192" alt="Pixel art of sleeping cats on an ornate blue-and-gold sofa">
+  <img src="https://raw.githubusercontent.com/khalilm3264/pixelart/main/cats-sofa.png" width="256" alt="Pixel art of sleeping cats">
 </a>
 
 <sub>A little pixel art between research projects.</sub>
