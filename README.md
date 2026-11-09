@@ -26,8 +26,6 @@ I like building tools that make complicated ideas easier to explore and drawing 
 
 I'm interested in the intersection of **healthcare, quantitative research, and software**. My background is in psychology and clinical mental health, and I've been exploring pharmacokinetics, experimental biology, and computational approaches to scientific questions.
 
-I enjoy turning research ideas into useful, reproducible tools—from simulation models and visualizations to smaller creative projects.
-
 ### Projects
 
 #### 🧪 [AyFlux — Acyclovir Pharmacokinetics Simulator](https://github.com/khalilm3264/acyclovirpksim)
@@ -46,7 +44,7 @@ An open-source, browser-based tool for exploring **acyclovir and valacyclovir ph
 
 #### 🐈 [Pixel Art](https://github.com/khalilm3264/pixelart)
 
-A collection of little pixel illustrations, mostly inspired by cats. I like working with expressive details, strong silhouettes, and cozy scenes at small resolutions.
+A collection of my cats, Diamond, George, Sabrina and Claire
 
 **Browse:** [pixelart repository](https://github.com/khalilm3264/pixelart)
 
