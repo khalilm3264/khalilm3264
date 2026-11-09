@@ -2,9 +2,9 @@
 
 # Hi, I'm Muhammad 👋
 
-**Psychology graduate · Computational modeling · Biomedical research**
+**Computational modeling · Biomedical research**
 
-I like building tools that make complicated ideas easier to explore—and drawing cats when I'm not doing that.
+I like building tools that make complicated ideas easier to explore and drawing cats.
 
 <a href="https://ayflux.org/">AyFlux</a> ·
 <a href="https://github.com/khalilm3264/acyclovirpksim">Source code</a> ·
